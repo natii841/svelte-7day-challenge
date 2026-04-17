@@ -1,5 +1,4 @@
 <script>
-  import Counter from './projects/day1-counter/Counter.svelte';
+  import Todo from "./projects/day2-todo/Todo.svelte";
 </script>
-
-<Counter />
+<Todo />
