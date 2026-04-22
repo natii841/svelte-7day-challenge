@@ -1,4 +1,5 @@
 <script>
-  import Todo from "./projects/day3-weather/Weather.svelte";
+  import Notes from "./projects/day4-notes/Notes.svelte";
 </script>
-<Todo />
+
+<Notes />
