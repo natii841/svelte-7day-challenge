@@ -1,5 +1,5 @@
 <script>
-  import Movies from "./projects/day5-movies/Movies.svelte";
+  import Portfolio from "./projects/day6-portfolio/Portfolio.svelte";
 </script>
 
-<Movies />
+<Portfolio />
