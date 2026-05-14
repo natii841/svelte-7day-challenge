@@ -1,5 +1,5 @@
 <script>
-  import Notes from "./projects/day4-notes/Notes.svelte";
+  import Movies from "./projects/day5-movies/Movies.svelte";
 </script>
 
-<Notes />
+<Movies />
